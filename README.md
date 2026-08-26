@@ -44,18 +44,4 @@
 </div>
 
 <br>
-
-### 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=reuvin22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reuvin22&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reuvin22&theme=tokyonight&hide_border=true" width="70%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=reuvin22&theme=tokyo-night&hide_border=true" width="100%" />
-
-</div>
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=100&section=footer)
