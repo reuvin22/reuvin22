@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=200&section=header&text=Reuvin%20Hernandez&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=58&descSize=18)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=460&lines=Full-Stack+Software+Engineer;3+Years+Building+Web+Apps;Based+in+Laguna%2C+Philippines;Always+shipping+something+new)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6366F1&center=true&vCenter=true&width=460&lines=Full-Stack+Software+Engineer;4+Years+Building+Web+Apps;Based+in+Laguna%2C+Philippines;Always+shipping+something+new)](https://git.io/typing-svg)
 
 ---
 
